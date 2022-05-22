@@ -1,0 +1,36 @@
+.titulo{
+	font-size:36px;
+	align-items: center;
+	justify-content:center;
+	text-align: center;
+}
+.subtitulos{
+	font-size:28px;
+	justify-content: center;
+	flex-direction: row;
+	height:100%;
+	padding-top: 50px;
+}
+.conteudo{
+	font-size:20px;
+	justify-content:center;
+	flex-direction: row;
+	height:100%;
+	margin-left: 16%;
+	margin-right:16%;
+	padding-top: 50px;
+	text-align: justify;
+	}
+.lista{
+	font-size:24px;
+}
+.imagens{
+	  display: block;
+    margin-left: auto;
+    margin-right: auto
+	}
+.formulario{
+	align-items:center;
+	justify-content:center;
+	text-align: center;
+}
