@@ -76,7 +76,11 @@ margin: 0 auto 0;
 }
 
 h2 span{
-    position: absolute;
+    position: relative;
+    top: -180px;
+}
+h1 span{
+    position: relative;
     top: -180px;
 }
 .rodape{
